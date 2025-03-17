@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "João",
+        "avatar": "https://www.areavip.com.br/wp-content/uploads/2023/05/joao-guilherme-2.jpg",
+        "cidade": "São Paulo"
+    },
+    {
+        "id": 2,
+        "nome": "Maria",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB8EXLiefKGpVfYuyEwYliIIt20VsTvoF0vQ&s",
+        "cidade": "Rio de Janeiro"
+    },
+    {
+        "id": 3,
+        "nome": "Pedro",
+        "avatar": "https://s2-g1.glbimg.com/kkZ2mNe30jhNYQmkENYldVfttiQ=/0x0:4500x4500/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/t/CmbhHGS3man1U1dgCeZA/dompedrofoto-2.jpg",
+        "cidade": "Belo Horizonte"
+    }
+]
